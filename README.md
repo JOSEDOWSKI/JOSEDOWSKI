@@ -1,9 +1,19 @@
-# Jose Manuel Molina Vargas
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:4c1d95,100:8A2BE2&height=180&section=header&text=Jose%20Molina&fontSize=54&fontColor=ffffff&fontAlignY=36&desc=Requirements%20first.%20Code%20second.&descSize=18&descAlignY=58" alt="" />
 
 **Full-stack engineer.** I build platforms end to end — data model, API, deploy —
 and I go one layer down when the abstraction starts lying to me.
 
 Founder of [GetDevTools](https://getdevtools.com) · Arequipa, Peru
+
+<p>
+<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+</p>
 
 ---
 
@@ -55,14 +65,6 @@ metal.
 
 **[certificaciones-idema](https://github.com/JOSEDOWSKI/certificaciones-idema)** · `HTML`
 <!-- FILL: one line. Does it issue certificates, verify them, or both? Who uses it? -->
-
----
-
-## Stack
-
-**Backend** — NestJS · Python · PostgreSQL
-**Frontend** — Next.js · TypeScript
-**Infra** — Docker · Go
 
 ---
 
