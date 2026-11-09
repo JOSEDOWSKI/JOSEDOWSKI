@@ -3,7 +3,7 @@
 **Full-stack engineer.** I build platforms end to end — data model, API, deploy —
 and I go one layer down when the abstraction starts lying to me.
 
-Founder of [GetDevTools](https://getdevtools.com) · Arequipa, Peru
+CPO & co-founder of [Promesa.tech](https://promesa.tech) · Arequipa, Peru
 
 <p>
 <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
@@ -70,5 +70,6 @@ metal.
 
 ## Reach me
 
-- Web — [getdevtools.com](https://getdevtools.com)
-<!-- FILL: add email / LinkedIn / X. A profile with no contact is a closed door. -->
+- Web — [promesa.tech](https://promesa.tech)
+- LinkedIn — [in/jmolinadev](https://www.linkedin.com/in/jmolinadev/)
+- Email — [jose.molina@promesa.tech](mailto:jose.molina@promesa.tech)
